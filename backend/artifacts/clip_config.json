@@ -1,0 +1,4 @@
+{
+  "clip_model_name": "ViT-B-32",
+  "clip_pretrained": "laion2b_s34b_b79k"
+}
