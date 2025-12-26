@@ -1,3 +1,0 @@
-C:\Users\samsa\OneDrive\Desktop\Coding\AI Image Dectector\data\train\ai\208_midjourney_76.png	UnidentifiedImageError: cannot identify image file 'C:\\Users\\samsa\\OneDrive\\Desktop\\Coding\\AI Image Dectector\\data\\train\\ai\\208_midjourney_76.png'
-C:\Users\samsa\OneDrive\Desktop\Coding\AI Image Dectector\data\train\ai\208_midjourney_91.png	UnidentifiedImageError: cannot identify image file 'C:\\Users\\samsa\\OneDrive\\Desktop\\Coding\\AI Image Dectector\\data\\train\\ai\\208_midjourney_91.png'
-C:\Users\samsa\OneDrive\Desktop\Coding\AI Image Dectector\data\train\ai\208_midjourney_92.png	UnidentifiedImageError: cannot identify image file 'C:\\Users\\samsa\\OneDrive\\Desktop\\Coding\\AI Image Dectector\\data\\train\\ai\\208_midjourney_92.png'
